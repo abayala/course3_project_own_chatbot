@@ -32,7 +32,7 @@ Here are some explanations of the functions implemented in [main.py](main.py):
 
 ### Project Outline
 The workflow of  [main.py](main.py) is as follows:
-* The dataset containing fashion information of 2023 and embeddings is extracted
+* The dataset containing fashion information of 2023 and embeddings is extracted, formatting into pandas with a column named "text" which contains the main dataset information.
 * A simple prompt template is defined to ask the llm questions without prompt customization
 * A defined the next questions relevant to the fashion chatbot:
   * Which are the fashion trends in 2023?
