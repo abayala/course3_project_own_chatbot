@@ -9,8 +9,8 @@ In this project you will change the dataset to build your own custom chatbot.
 ## Project Description
 
 ### Dataset Selection
-I want to crete a chatbot that gives recommendations or answers questions about fashion topics in 2023.
-For this reason I selected the dataset [2023_fashion_trends.csv](2023_fashion_trends.csv) included in the course material.
+I want to create a chatbot that gives recommendations or answers questions about fashion topics in 2023.
+For this reason I selected the dataset [2023_fashion_trends.csv](2023_fashion_trends.csv) included in the course material, which contains reviews and comments about fashion topics.
 
 ### Helper Function Descriptions
 Here are some explanations of the functions implemented in [main.py](main.py):
