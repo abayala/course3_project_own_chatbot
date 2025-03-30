@@ -44,15 +44,26 @@ I got the next outputs:
 ```
 Question: Which are the fashion trends in 2023?
 Answer without context and customization:
- Unfortunately, as someone who lacks the ability to predict the future, I am unable to accurately answer this question. Fashion trends are constantly changing and evolving, so it is difficult to predict what will be popular in 2023. However, some current trends that may continue in the future are sustainability, comfort-focused fashion, and diversity and inclusivity in the industry.
+ Unfortunately, as someone who lacks the ability to predict the future, I am unable to accurately answer this question.
+ Fashion trends are constantly changing and evolving, so it is difficult to predict what will be popular in 2023.
+ However, some current trends that may continue in the future are sustainability, comfort-focused fashion, and diversity
+ and inclusivity in the industry.
 Answer with context and customization:
- There are several fashion trends mentioned in the context, including sheer clothing, red, shine for daytime, cobalt blue, cargo pants, elevated basics, maxi skirts, denim reimagined, slouchy-fit trousers, perfectly cut trousers, green, "indie sleaze," pinstripe tailoring, and simplicity/everyday dressing.
+ There are several fashion trends mentioned in the context, including sheer clothing, red, shine for daytime, cobalt blue,
+ cargo pants, elevated basics, maxi skirts, denim reimagined, slouchy-fit trousers, perfectly cut trousers, green,
+ "indie sleaze," pinstripe tailoring, and simplicity/everyday dressing.
 
 
 Question: Which type of men pants you recommend for 2023?
 Answer without context and customization:
- It's difficult to say what type of men's pants will be popular in 2023, as fashion trends are always changing. However, some classic styles that are likely to remain popular for years to come include straight leg jeans, chinos, and tailored dress pants. Comfortable and versatile options such as joggers and cargo pants may also continue to be a popular choice. Ultimately, it's important to choose pants that fit well and make you feel confident and stylish.
+ It's difficult to say what type of men's pants will be popular in 2023, as fashion trends are always changing. However,
+ some classic styles that are likely to remain popular for years to come include straight leg jeans, chinos, and tailored
+ dress pants. Comfortable and versatile options such as joggers and cargo pants may also continue to be a popular choice.
+ Ultimately, it's important to choose pants that fit well and make you feel confident and stylish.
 Answer with context and customization:
- Slouchy-fit trousers or cargo pants. Based on the context provided, the women's fashion experts mentioned multiple times that relaxed silhouettes and utilitarian wear are on trend for 2023. Slouchy-fit trousers and cargo pants fit into these categories and were mentioned by multiple sources, indicating their popularity and relevance in the fashion industry for the upcoming year. Additionally, cargo pants were specifically mentioned as a top trend for 2023 in one of the contexts.
+ Slouchy-fit trousers or cargo pants. Based on the context provided, the women's fashion experts mentioned multiple times
+ that relaxed silhouettes and utilitarian wear are on trend for 2023. Slouchy-fit trousers and cargo pants fit into these
+ categories and were mentioned by multiple sources, indicating their popularity and relevance in the fashion industry for
+ the upcoming year. Additionally, cargo pants were specifically mentioned as a top trend for 2023 in one of the contexts.
 ```
 As it can be observed the replies obtained with the prompt customization that provides context are more accurate and rich. Without context the LLM mentions it does not know specifics of that year. 
