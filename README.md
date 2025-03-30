@@ -66,4 +66,5 @@ Answer with context and customization:
  categories and were mentioned by multiple sources, indicating their popularity and relevance in the fashion industry for
  the upcoming year. Additionally, cargo pants were specifically mentioned as a top trend for 2023 in one of the contexts.
 ```
-As it can be observed the replies obtained with the prompt customization that provides context are more accurate and rich. Without context the LLM mentions it does not know specifics of that year. 
+As it can be observed the replies obtained with the prompt customization that provides context are more accurate, rich and focused on real information of 2023.
+Without context the LLM mentions it does not know specifics of that year. 
