@@ -126,8 +126,8 @@ def answer_question(
 if __name__ == '__main__':
     completion_model_name = "gpt-3.5-turbo-instruct"
     fashion_dataset = prepare_dataset()
-    questions =["What are the fashion trends in 2023?",
-                "Which type of men pants you recommend for 2023"]
+    questions =["Which are the fashion trends in 2023?",
+                "Which type of men pants you recommend for 2023?"]
 
     simple_prompt_template = """
     Question: "{}?"
