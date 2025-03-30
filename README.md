@@ -17,7 +17,7 @@ Here are some explanations of the functions implemented in [main.py](main.py):
 * The function ```prepare_dataset()``` reads the dataset csv file, extracts only the "Trends" column renaming it to "text", computes each row text embeddings and adds them to a column "embeddings" for later use in context search.
 * The function ```get_rows_sorted_by_relevance()``` receives a questions and uses the embeddings to perform to semantic similarity search in the database
 * The function ```create_prompt()``` creates a personalized prompt by adding the context extracted with ```get_rows_sorted_by_relevance()``` and adds the most rows possible that fits in the context window. The template prompt looks as follows: 
-  *     ```You are a expert fashion agent. Answer the question based on the context below, and if the question
+  *     ```You are an expert fashion agent. Answer the question based on the context below, and if the question
          can't be answered based on the context, say "I don't know". Add details of how you reached to that answer.
         
          Context: 

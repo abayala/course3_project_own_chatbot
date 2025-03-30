@@ -67,7 +67,7 @@ def create_prompt(in_question, df, max_token_count):
 
     # Count the number of tokens in the prompt template and question
     prompt_template = """
-        You are a expert fashion agent. Answer the question based on the context below, and if the question
+        You are an expert fashion agent. Answer the question based on the context below, and if the question
         can't be answered based on the context, say "I don't know". Add details of how you reached to that answer.
         
         Context: 
